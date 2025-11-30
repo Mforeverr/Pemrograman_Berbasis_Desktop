@@ -1,0 +1,29 @@
+=== MENU RESTORAN RESTORAN SAYA ===
+Total Menu: 25
+==================================================
+
+Minuman|Air Guraka|14000.00|minuman|hangat|small|true
+Makanan|Ayam |16000.00|makanan|pedas|sedang
+Makanan|Ayam Taliwang|45000.00|makanan|pokok|pedas
+Makanan|Ayam Woku Belanga|40000.00|makanan|pokok|pedas
+Makanan|Bebek Goreng|20000.00|makanan|pokok|normal
+Makanan|Coto Makassar|42000.00|makanan|pokok|sedang
+Diskon|Diskon Akhir Pekan|0.0|diskon|0.15|100000.00|Berlaku Sabtu-Minggu|true
+Diskon|Diskon Member|0.0|diskon|0.10|50000.00|Untuk member restoran|true
+Minuman|Es Brenebon|18000.00|minuman|dingin|medium|true
+Minuman|Es Markisa|15000.00|minuman|dingin|medium|true
+Minuman|Es Matoa|19000.00|minuman|dingin|medium|true
+Minuman|Es Palu Butung|20000.00|minuman|dingin|medium|true
+Minuman|Es Pisang Ijo|20000.00|minuman|dingin|medium|true
+Makanan|Ikan Bakar Colo-Colo|43000.00|makanan|pokok|pedas
+Makanan|Ikan Parende|36000.00|makanan|pokok|sedang
+Makanan|Jagung Bose|20000.00|makanan|pendamping|tidak pedas
+Minuman|Jus Gandaria|17000.00|minuman|dingin|large|true
+Makanan|Konro Bakar|52000.00|makanan|pokok|pedas
+Minuman|Kopi Rarobang|16000.00|minuman|panas|medium|true
+Diskon|PAHE|0.0|diskon|0.30|100000.00|tidak ada|true
+Makanan|Papeda Ikan Kuah Kuning|38000.00|makanan|pokok|sedang
+Minuman|Sarabba|15000.00|minuman|panas|small|true
+Makanan|Se'i Sapi|50000.00|makanan|pokok|sedang
+Minuman|Susu Kuda Liar|25000.00|minuman|dingin|small|false
+Makanan|Tinutuan (Bubur Manado)|28000.00|makanan|pokok|tidak pedas
